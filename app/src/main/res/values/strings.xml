@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">base_android</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="failed">Failed</string>
+    <string name="notice">Notice</string>
+    <string name="mess_allow_camera_permission">We wants to access your camera to take an image. Do you want to turn on the permission</string>
+    <string name="mess_field_empty">This field must not be empty!</string>
+</resources>
